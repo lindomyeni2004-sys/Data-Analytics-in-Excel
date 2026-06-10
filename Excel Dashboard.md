@@ -1,11 +1,11 @@
 # Corporate Financial & Sales Analysis Dashboard (Excel)
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates the end-to-end process of transforming a raw, unorganized corporate financial dataset into a fully interactive **Sales Analysis Dashboard** built entirely in Microsoft Excel. The final deliverable enables stakeholders to filter, visualize, and track key performance metrics across multiple dimensions, including products, global regions, and market segments.
 
 ---
 
-## 📂 What I Had (The Raw Data)
+## What I Had (The Raw Data)
 The initial dataset consisted of a flat table (`Original Data`) containing 700+ rows of raw financial transactions with the following parameters:
 * **Dimensions:** Market Segments, Countries (Canada, France, Germany, Mexico, USA), and Products (Amarilla, Carretera, Montana, Paseo, Velo, VTT).
 * **Financial Metrics:** Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Cost of Goods Sold (COGS), and Net Profit.
@@ -17,7 +17,7 @@ $$\text{Sales} = \text{Gross Sales} - \text{Discounts}$$
 
 ---
 
-## 🛠️ What I Made of It (The Transformation)
+## What I Made of It (The Transformation)
 
 I transformed the raw transactional records into a structured, relational analytics system categorized across three main layers:
 
@@ -39,7 +39,7 @@ The final culmination of this project is a single-screen **Sales Analysis Dashbo
 
 ---
 
-## 💡 Key Skills & Core Excel Features Demonstrated
+## Key Skills & Core Excel Features Demonstrated
 * **Data Summarization:** Advanced Pivot Tables & Pivot Charts.
 * **Dashboard Architecture:** Layout design, conditional formatting, dynamic charting, and cross-filtering using Slicers.
 * **Financial Data Modeling:** Transforming flat transactional schemas into aggregated business dimensions.
